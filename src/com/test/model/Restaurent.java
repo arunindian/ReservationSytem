@@ -6,7 +6,7 @@ import com.test.model.items.Menu;
 import com.test.model.staff.Staff;
 import com.test.model.staff.StaffComponent;
 
-public class Restaurent {
+public class Restaurent{
 	
 	private Menu menu;
 	private List<Staff<StaffComponent>> staffs;
